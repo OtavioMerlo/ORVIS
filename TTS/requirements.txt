@@ -1,0 +1,10 @@
+fastapi[standard]
+uvicorn
+soundfile
+torch>=2.4.1 # Atualizado para a versão 2.4.1
+TTS
+numpy<2.0.0
+python-multipart
+requests
+transformers==4.33.0 # Fixado na versão 4.33.0
+torchcodec

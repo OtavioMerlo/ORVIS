@@ -1,0 +1,42 @@
+[
+  {
+    "name": "_ga",
+    "value": "GA1.1.1029891929.1776744716",
+    "domain": ".chromewebstore.google.com",
+    "path": "/",
+    "expires": 1811347393.770805,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "unspecified"
+  },
+  {
+    "name": "_ga_3RQSMLZTCP",
+    "value": "GS2.1.s1776787393$o1$g0$t1776787410$j43$l0$h0",
+    "domain": ".chromewebstore.google.com",
+    "path": "/",
+    "expires": 1811347410.661507,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "unspecified"
+  },
+  {
+    "name": "_ga_KHZNC1Q6K0",
+    "value": "GS2.1.s1776787393$o2$g1$t1776787410$j43$l0$h0",
+    "domain": ".chromewebstore.google.com",
+    "path": "/",
+    "expires": 1811347410.647906,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "unspecified"
+  },
+  {
+    "name": "OTZ",
+    "value": "8574012_68_64_73560_68_416340",
+    "domain": "chromewebstore.google.com",
+    "path": "/",
+    "expires": 1779336717,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "unspecified"
+  }
+]

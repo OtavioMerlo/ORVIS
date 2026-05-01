@@ -1,0 +1,59 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+.env.local
+.env.*
+
+# 💾 Data & Logs
+data/temp_audio/*
+!data/temp_audio/.gitkeep
+data/memory/*
+agent_debug.log
+*.log
+
+# 📱 Mobile (Expo/React Native)
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+mobile/web-build/
+mobile/expo-env.d.ts
+mobile/ios/
+mobile/android/
+mobile/*.jks
+mobile/*.p8
+mobile/*.p12
+mobile/*.key
+mobile/*.mobileprovision
+
+# 🌐 Frontend (Web)
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# 🎙️ TTS & Music Services
+TTS/outputs/*
+TTS/learning_list/*
+TTS/models/
+tocarmusica/downloads/
+*.mp3
+*.wav
+
+# 🛠️ IDEs & Tools
+.vscode/
+.idea/
+.DS_Store
+scratch/
+.agent/
+.gemini/
+core/prompts/
+
+# 🧪 Temporary
+temp/
+tmp/
+*.tmp
